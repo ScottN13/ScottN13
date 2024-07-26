@@ -1,5 +1,5 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Welcome to my profile!
-I'm a 🇷🇴 Romanian tech enthusiast who also speaks german.
+I'm a Romanian tech enthusiast who also speaks german.
 
 ## Languages i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,5 +19,7 @@ Total profile visitors so far: [![Visits Badge](https://badges.pufler.dev/visits
 
 
 I've also been here for: [![Years Badge](https://badges.pufler.dev/years/ScottN13)](https://badges.pufler.dev)
-
+<details>
+<summary>Other Stats</summary>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottN13)](https://github.com/anuraghazra/github-readme-stats)
+</details>

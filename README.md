@@ -15,9 +15,9 @@ Here are some that i also know, but don't use that often.
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## Stats
-Total profile visitors so far: [![Visits Badge](https://badges.pufler.dev/visits/ScottN13/)](https://badges.pufler.dev)
+Total profile visitors so far: [![Visits Badge](https://badges.pufler.dev/visits/ScottN13/ScottN13)](https://badges.pufler.dev)
 
-    
+
 I've also been here for: [![Years Badge](https://badges.pufler.dev/years/ScottN13)](https://badges.pufler.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottN13)](https://github.com/anuraghazra/github-readme-stats)

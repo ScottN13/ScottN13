@@ -1,5 +1,5 @@
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Welcome to my profile!
-I'm a Romanian tech enthusiast who also speaks german.
+I'm a 🇷🇴 Romanian tech enthusiast who also speaks german.
 
 ## Languages i use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

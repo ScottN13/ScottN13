@@ -22,5 +22,7 @@ Total profile visitors so far: [![Visits Badge](https://badges.pufler.dev/visits
 I've also been here for: [![Years Badge](https://badges.pufler.dev/years/ScottN13)](https://badges.pufler.dev)
 <details>
 <summary>Other Stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottN13)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottN13)(https://github.com/anuraghazra/github-readme-stats)]
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jgdi6hqsozbonvjssjtmstfyk4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jgdi6hqsozbonvjssjtmstfyk4&redirect=true)
 </details>
